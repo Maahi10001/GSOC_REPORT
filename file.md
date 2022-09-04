@@ -20,7 +20,7 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 
 ## [GitHub Personal Repo](https://github.com/Maahi10001/Codelabz)
 
-## [Commits during GSoC 2021](https://github.com/scorelab/Codelabz/commits?author=maahi10001)
+## [Commits during GSoC 2022](https://github.com/scorelab/Codelabz/commits?author=maahi10001)
 
 ## [Project Demo Video](https://youtu.be/vHhyuYpfgJk)
 
@@ -28,7 +28,7 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 
 ## Work Summary
 
-During GSoC'21 I worked on the frontend part of the CodelabZ project. In the first half of my GSoC journey, I worked on material UI components. I designed and implemented new components(codelabz card, carousel component, etc) and pages(home page, 404 pages, login page, code feed page) that are completely re-usable. I also added some animation and effects to make it more user-friendly. I replaced all the components with material UI and also added some extra components. All the components are mostly mobile-friendly and highly optimized. The most challenging part I faced was in some cases I have to think about how I'll achieve these functionalities like follow, following feature between organization and user, auto-complete search user functionalities, etc. In the later part of my journey, I worked on storybook components for our project and deployed them. Here storybook is nicely organized, the user can control components props on his own and do some experiments with components. I also wrote frontend tests (cypress) for every component of our project. Later we plan to link it with Github actions. Also besides this, I worked on firebase to connect redux with firestore. I mainly used firestore for implementing the features and storing data (users, organizations). In the end, I fixed some existing bugs and updated documentation for this project. Finally, this project turned out to be a good one with many functionalities and a cool UI/UX design.
+During GSoC'22 I worked on the frontend part of the CodelabZ project. In the first half of my GSoC journey, I worked on material UI components. I designed and implemented new components(codelabz card, carousel component, etc) and pages(home page, 404 pages, login page, code feed page) that are completely re-usable. I also added some animation and effects to make it more user-friendly. I replaced all the components with material UI and also added some extra components. All the components are mostly mobile-friendly and highly optimized. The most challenging part I faced was in some cases I have to think about how I'll achieve these functionalities like follow, following feature between organization and user, auto-complete search user functionalities, etc. In the later part of my journey, I worked on storybook components for our project and deployed them. Here storybook is nicely organized, the user can control components props on his own and do some experiments with components. I also wrote frontend tests (cypress) for every component of our project. Later we plan to link it with Github actions. Also besides this, I worked on firebase to connect redux with firestore. I mainly used firestore for implementing the features and storing data (users, organizations). In the end, I fixed some existing bugs and updated documentation for this project. Finally, this project turned out to be a good one with many functionalities and a cool UI/UX design.
 
 ### Live demo - https://dev.codelabz.io/
 
