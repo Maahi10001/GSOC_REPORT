@@ -10,23 +10,21 @@
 - Linkedin - https://www.linkedin.com/in/thanda-mahender-goud-77931b214/
 ## Project Abstract
 
-![cl_logo](https://user-images.githubusercontent.com/52108435/129448332-7ec72098-e082-4b04-907b-6d1eaa9b70ca.png)
-
 CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users.It used React with Material-UI as front-end library and firebase as back-end.
 
-## [GSoC Project Page](https://summerofcode.withgoogle.com/projects/#6750547585007616)
+## [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2022/projects/zwGmPCW4)
 
-## [GSoC Project Proposal](https://drive.google.com/file/d/19AHDjddidqnR-DNT9S33ZTn5mnBNpfT9/view?usp=sharing)
+## [GSoC Project Proposal](https://drive.google.com/file/d/1rZIGdOAUsiqNNvIuBbtArY7OYG5-Xrfw/view?usp=sharing)
 
 ## [GitHub Organization Repo](https://github.com/scorelab/Codelabz)
 
-## [GitHub Personal Repo](https://github.com/rijusougata13/Codelabz)
+## [GitHub Personal Repo](https://github.com/Maahi10001/Codelabz)
 
-## [Commits during GSoC 2021](https://github.com/scorelab/Codelabz/commits?author=rijusougata13)
+## [Commits during GSoC 2021](https://github.com/scorelab/Codelabz/commits?author=maahi10001)
 
 ## [Project Demo Video](https://youtu.be/vHhyuYpfgJk)
 
-## [GSoC Blog](https://medium.com/scorelab/beginning-of-gsoc-2021-with-score-lab-9ce36fd5610e)
+## [GSoC Blog](https://medium.com/scorelab/the-beginning-of-gsoc22-journey-with-score-lab-655cc2b08dd1)
 
 ## Work Summary
 
