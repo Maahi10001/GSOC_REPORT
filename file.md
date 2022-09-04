@@ -2,13 +2,12 @@
 
 ## Student Info
 
-- Name - Sougata Das
-- Email - rijusougata13@gmail.com
-- GitHub Profile - https://github.com/rijusougata13
-- Medium - https://rijusougata13.medium.com/
-- Twitter - https://twitter.com/rijusougata13
-- Linkedin - https://www.linkedin.com/in/rijusougata13/
-
+- Name - Thanda Mahender Goud
+- Email - thandamahendergoud1@gmail.com
+- GitHub Profile - https://github.com/Maahi10001
+- Medium - https://medium.com/@thandamahendergoud1
+- Twitter - https://twitter.com/Maahi_10001
+- Linkedin - https://www.linkedin.com/in/thanda-mahender-goud-77931b214/
 ## Project Abstract
 
 ![cl_logo](https://user-images.githubusercontent.com/52108435/129448332-7ec72098-e082-4b04-907b-6d1eaa9b70ca.png)
