@@ -22,7 +22,7 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 
 ## [Commits during GSoC 2022](https://github.com/scorelab/Codelabz/commits?author=maahi10001)
 
-## [Project Demo Video](https://youtu.be/vHhyuYpfgJk)
+## [Project Demo Video]()
 
 ## [Project Wiki](https://github.com/scorelab/Codelabz/wiki)
 
