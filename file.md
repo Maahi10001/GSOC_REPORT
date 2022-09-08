@@ -41,25 +41,46 @@ During GSoC'22, I began working on the CodelabZ project's backend. For the first
 
 ## What Covered
 
+| Issue Link   | Status         |  
+|--------------|----------------|
+| [#242](https://github.com/scorelab/Codelabz/issues/242)| Closed ✅ |
+| [#247](https://github.com/scorelab/Codelabz/issues/247)| Closed ✅ |
+| [#252](https://github.com/scorelab/Codelabz/issues/252)| Closed ✅ |
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
+| [#351](https://github.com/scorelab/Codelabz/issues/351)| Closed ✅ |
+| [#372](https://github.com/scorelab/Codelabz/issues/372)| Closed ✅ |
+| [#372](https://github.com/scorelab/Codelabz/issues/372)| Closed ✅ |
+| [#369](https://github.com/scorelab/Codelabz/issues/369)| Closed ✅ |
+| [#373](https://github.com/scorelab/Codelabz/issues/373)| Closed ✅ |
+| [#389](https://github.com/scorelab/Codelabz/issues/389)| Closed ✅ |
+| [#389](https://github.com/scorelab/Codelabz/issues/389)| Closed ✅ |
+| [#400](https://github.com/scorelab/Codelabz/issues/400)| Closed ✅ |
+| [#403](https://github.com/scorelab/Codelabz/issues/403)| Closed ✅ |
 
-| PR Link   | Description    |  Issue Link     |
-|-----------|----------------|-----------------|
-| [#245](https://github.com/scorelab/Codelabz/pull/245) | Merged ✅ | [#242](https://github.com/scorelab/Codelabz/issues/242) |
-| [#261](https://github.com/scorelab/Codelabz/pull/261) | Merged ✅ | [#247](https://github.com/scorelab/Codelabz/issues/247)|
-| [#261](https://github.com/scorelab/Codelabz/pull/261) | Merged ✅ | [#252](https://github.com/scorelab/Codelabz/issues/252)
-| [#304](https://github.com/scorelab/Codelabz/pull/304) | Merged ✅ | [#234](https://github.com/scorelab/Codelabz/issues/234)
-| [#305](https://github.com/scorelab/Codelabz/pull/305) | Merged ✅ | [#234](https://github.com/scorelab/Codelabz/pull/234)
-| [#322](https://github.com/scorelab/Codelabz/pull/322) | Merged ✅ | [#330](https://github.com/scorelab/Codelabz/issues/330)
-| [#337](https://github.com/scorelab/Codelabz/pull/337) | Merged ✅ | [#329](https://github.com/scorelab/Codelabz/issues/329)
-| [#338](https://github.com/scorelab/Codelabz/pull/338) | Merged ✅ | [#334](https://github.com/scorelab/Codelabz/issues/334)
-| [#348](https://github.com/scorelab/Codelabz/pull/348) | Merged ✅ | [#333](https://github.com/scorelab/Codelabz/issues/333)
-| [#349](https://github.com/scorelab/Codelabz/pull/349) | Merged ✅ | [#329](https://github.com/scorelab/Codelabz/issues/329)
-| [#363](https://github.com/scorelab/Codelabz/pull/363) | Merged ✅ | [#353](https://github.com/scorelab/Codelabz/issues/353)
-| [#375](https://github.com/scorelab/Codelabz/pull/375) | Merged ✅ | [#351](https://github.com/scorelab/Codelabz/issues/351)
-| [#376](https://github.com/scorelab/Codelabz/pull/376) | Merged ✅ | [#366](https://github.com/scorelab/Codelabz/issues/366)
-| [#395](https://github.com/scorelab/Codelabz/pull/395) | Merged ✅ | [#369](https://github.com/scorelab/Codelabz/issues/369)
-| [#396](https://github.com/scorelab/Codelabz/pull/396) | Merged ✅ | [#373](https://github.com/scorelab/Codelabz/issues/373)
-| [#398](https://github.com/scorelab/Codelabz/pull/398) | Merged ✅ | [#389](https://github.com/scorelab/Codelabz/issues/389)
-| [#402](https://github.com/scorelab/Codelabz/pull/402) | Merged ✅ | [#389](https://github.com/scorelab/Codelabz/issues/389)
-| [#443](https://github.com/scorelab/Codelabz/pull/443) | Merged ✅ | [#400](https://github.com/scorelab/Codelabz/issues/400)
-| [#444](https://github.com/scorelab/Codelabz/pull/444) | Merged ✅ | [#403](https://github.com/scorelab/Codelabz/issues/403)
+| PR Link   | Status         |  
+|-----------|----------------|
+| [#245](https://github.com/scorelab/Codelabz/pull/245) | Merged ✅ |
+| [#261](https://github.com/scorelab/Codelabz/pull/261) | Merged ✅ |
+| [#261](https://github.com/scorelab/Codelabz/pull/261) | Merged ✅ | 
+| [#304](https://github.com/scorelab/Codelabz/pull/304) | Merged ✅ | 
+| [#305](https://github.com/scorelab/Codelabz/pull/305) | Merged ✅ | 
+| [#322](https://github.com/scorelab/Codelabz/pull/322) | Merged ✅ | 
+| [#337](https://github.com/scorelab/Codelabz/pull/337) | Merged ✅ | 
+| [#338](https://github.com/scorelab/Codelabz/pull/338) | Merged ✅ |
+| [#348](https://github.com/scorelab/Codelabz/pull/348) | Merged ✅ | 
+| [#349](https://github.com/scorelab/Codelabz/pull/349) | Merged ✅ | 
+| [#363](https://github.com/scorelab/Codelabz/pull/363) | Merged ✅ | 
+| [#375](https://github.com/scorelab/Codelabz/pull/375) | Merged ✅ | 
+| [#376](https://github.com/scorelab/Codelabz/pull/376) | Merged ✅ | 
+| [#395](https://github.com/scorelab/Codelabz/pull/395) | Merged ✅ | 
+| [#396](https://github.com/scorelab/Codelabz/pull/396) | Merged ✅ | 
+| [#398](https://github.com/scorelab/Codelabz/pull/398) | Merged ✅ | 
+| [#402](https://github.com/scorelab/Codelabz/pull/402) | Merged ✅ | 
+| [#443](https://github.com/scorelab/Codelabz/pull/443) | Merged ✅ | 
+| [#444](https://github.com/scorelab/Codelabz/pull/444) | Merged ✅ |
