@@ -24,7 +24,7 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 
 ## [Project Demo Video](https://youtu.be/vHhyuYpfgJk)
 
-## [GSoC Blog](https://medium.com/scorelab/the-beginning-of-gsoc22-journey-with-score-lab-655cc2b08dd1)
+## [GSoC Blog](https://medium.com/me/stories/public)
 
 ## Work Summary
 
