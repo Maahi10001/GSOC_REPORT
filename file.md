@@ -41,8 +41,8 @@ During GSoC'22, I began working on the CodelabZ project's backend. For the first
 
 ## What Covered:-
 
-| Issue Link   | Status         |  Description |
-|--------------|----------------|--------------|
+| Issue Link   | Status         |
+|--------------|----------------|
 | [#242](https://github.com/scorelab/Codelabz/issues/242)| Closed ✅ | 
 | [#247](https://github.com/scorelab/Codelabz/issues/247)| Closed ✅ |
 | [#252](https://github.com/scorelab/Codelabz/issues/252)| Closed ✅ |
