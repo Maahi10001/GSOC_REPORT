@@ -28,6 +28,19 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 
 ## [GSoC Blog](https://medium.com/me/stories/public)
 
+- [The Beginning of GSoC’22 Journey with SCoRe Lab](https://medium.com/scorelab/the-beginning-of-gsoc22-journey-with-score-lab-655cc2b08dd1)
+- [GSoC’22 with SCoRE Lab:week-1](https://medium.com/scorelab/gsoc22-with-score-lab-week-1-4106aecd4e06)
+- [GSoC’22 with SCoRE Lab:week-2](https://medium.com/scorelab/gsoc22-with-score-lab-week-2-42c0d692e0d4)
+- [GSoC’22 with SCoRE Lab:week-3](https://medium.com/scorelab/gsoc22-with-score-lab-week-3-ac3ef8b6c409)
+- [GSoC’22 with SCoRE Lab:week-4](https://medium.com/scorelab/gsoc22-with-score-lab-week-4-bc3181b02971)
+- [GSoC’22 with SCoRE Lab:week-5](https://medium.com/scorelab/gsoc22-with-score-lab-week-5-4551aacd571a)
+- [GSoC’22 with SCoRE Lab:week-6](https://medium.com/scorelab/gsoc22-with-score-lab-week-6-9621b04f194f)
+- [GSoC’22 with SCoRE Lab:week-7](https://medium.com/scorelab/gsoc22-with-score-lab-week-7-64082d6a5864)
+- [GSoC’22 with SCoRE Lab:week-8](https://medium.com/scorelab/gsoc22-with-score-lab-week-8-935fcea5b886)
+- [GSoC’22 with SCoRE Lab:week-9](https://medium.com/scorelab/gsoc22-with-score-lab-week-9-f68d6f22a0d0)
+- GSoC’22 with SCoRE Lab:week-10
+
+
 ## Work Summary
 
 During GSoC'22, I began working on the CodelabZ project's backend. For the first half of my GSoC experience, I worked on Firebase.
