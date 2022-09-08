@@ -10,7 +10,7 @@
 - Linkedin - https://www.linkedin.com/in/thanda-mahender-goud-77931b214/
 ## Project Abstract
 
-CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users.It used React with Material-UI as front-end library and firebase as back-end.
+CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users. The platform is developed using ReactJS front-end library and the back end is developed using the Google Cloud Firestore and Google Firebase Real-Time database. This project aims to bring changes to the UI to make the website seamless and provide more functionalities to users.
 
 ## [GSoC Project Page](https://summerofcode.withgoogle.com/programs/2022/projects/zwGmPCW4)
 
@@ -28,7 +28,13 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 
 ## Work Summary
 
-During GSoC'22, I began working on the backend of the CodelabZ project. I worked on Firebase for the first half of my GSoC experience. I designed and implemented a new firebase local emulator suite that can replace the previous firebase blaze plan and is very efficient and feasible to codelabz users. I also worked on firebase emulator operations such as importing and exporting data from one database to another simply by performing simple import and export operations, which is a major feature of firebase currently. We improved the UI and created re-usable pages (home page, 404 pages, login page, code feed page). Additionally, some animation and effects were added to make it more user-friendly. we used Material UI to replace all of the components and added some extras. The majority of the components are mobile-friendly and highly optimised. I created and deployed storybook components for our project. The storybook is nicely organised here, and the user can control the components props own and experiment with them. In addition, we wrote frontend tests (in Cypress) for each component of our project. We intend to connect it to Github actions later. Firestore was primarily used by codelabz for implementing features and storing data (users, organizations). Finally, some existing bugs were fixed and documentation for this project was updated, as well as a detailed documentation for firabse emulator setup and rulesets for data export and import over the databse. Codelabz is finally finished with all frontend and backend integration completed and all wikis for components and pages.
+During GSoC'22, I began working on the backend of the CodelabZ project. I worked on Firebase for the first half of my GSoC experience.
+- Designed and implemented a new firebase local emulator suite that can replace the previous firebase blaze plan and is very efficient and feasible to codelabz users. 
+- I also worked on firebase emulator operations such as importing and exporting data from one database to another simply by performing simple import and export operations, which is a major feature of firebase currently.
+-  We improved the UI and created re-usable pages (home page, 404 pages, login page, code feed page). Additionally, some animation and effects were added to make it more user-friendly. we used Material UI to replace all of the components and added some extras. 
+-  The majority of the components are mobile-friendly and highly optimised. I created and deployed storybook components for our project. The storybook is nicely organised here, and the user can control the components props own and experiment with them.
+-   In addition, we wrote frontend tests (in Cypress) for each component of our project. We intend to connect it to Github actions later. Firestore was primarily used by codelabz for implementing features and storing data (users, organizations). 
+-   Finally, some existing bugs were fixed and documentation for this project was updated, as well as a detailed documentation for firabse emulator setup and rulesets for data export and import over the databse. Codelabz is finally finished with all frontend and backend integration completed and all wikis for components and pages.
 
 ### Live demo - https://dev.codelabz.io/
 
