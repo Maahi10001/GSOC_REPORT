@@ -39,7 +39,7 @@ During GSoC'22, I began working on the CodelabZ project's backend. For the first
 -   Finally, some existing bugs were fixed, and the project documentation was updated, including detailed instructions for configuring the firabse emulator and rulesets for data export and import over the databse. Codelabz is finally finished with all frontend and backend integration completed and all wikis for components and pages.
 ### Live demo - https://dev.codelabz.io/
 
-## What Covered
+## What Covered:-
 
 | Issue Link   | Status         |  
 |--------------|----------------|
