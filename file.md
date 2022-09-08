@@ -8,7 +8,7 @@
 - Medium - https://medium.com/@thandamahendergoud1
 - Twitter - https://twitter.com/Maahi_10001
 - Linkedin - https://www.linkedin.com/in/thanda-mahender-goud-77931b214/
-## Project Abstract
+# Project Abstract
 
 CodeLabz is a platform where the users can engage with online tutorials and the organizations can create tutorials for the users. The platform is developed using ReactJS front-end library and the back end is developed using the Google Cloud Firestore and Google Firebase Real-Time database. This project aims to bring changes to the UI to make the website seamless and provide more functionalities to users.
 
@@ -22,7 +22,7 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 
 ## [Commits during GSoC 2022](https://github.com/scorelab/Codelabz/commits?author=maahi10001)
 
-### created and solved Issues:-
+### Created and Solved Issues:-
 
 | Issue Link   | Status         | Description |
 |--------------|----------------|-------------|
