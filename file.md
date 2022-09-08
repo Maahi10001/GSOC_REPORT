@@ -22,6 +22,8 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 
 ## [Commits during GSoC 2022](https://github.com/scorelab/Codelabz/commits?author=maahi10001)
 
+### created and solved Issues:-
+
 | Issue Link   | Status         | Description |
 |--------------|----------------|-------------|
 | [#242](https://github.com/scorelab/Codelabz/issues/242)| Closed ✅ | Tutorial Save Button Bug
@@ -40,6 +42,8 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 | [#388](https://github.com/scorelab/Codelabz/issues/388)| Closed ✅ | Update rule_set for testdata
 | [#400](https://github.com/scorelab/Codelabz/issues/400)| Closed ✅ | Update Firebase testData
 | [#413](https://github.com/scorelab/Codelabz/issues/413)| Closed ✅ | Responsive UI for Org Setting and Profile
+
+### Pull Requests:-
 
 | PR Link   | Status         |  Description |
 |-----------|----------------|--------------|
@@ -81,7 +85,7 @@ CodeLabz is a platform where the users can engage with online tutorials and the 
 - GSoC’22 with SCoRE Lab:week-10
 
 
-## Work Summary
+# Work Summary
 
 During GSoC'22, I began working on the CodelabZ project's backend. For the first half of my GSoC experience, I worked on Firebase.
 - Designed and implemented a new firebase local emulator suite that can replace the previous firebase blaze plan and is extremely efficient and practical for codelabz users.
@@ -91,7 +95,7 @@ During GSoC'22, I began working on the CodelabZ project's backend. For the first
 - Finally, some existing bugs were fixed, and the project documentation was updated, including detailed instructions for configuring the firabse emulator and rulesets for data export and import over the databse. Codelabz is finally finished with all frontend and backend integration completed and all wikis for components and pages.
 ### Live demo - https://dev.codelabz.io/
 
-## What Covered:-
+# What Covered:-
 - New UI.
 - Implemented New Firebase Emulator Suite.
 - Created seperate components.
@@ -99,5 +103,5 @@ During GSoC'22, I began working on the CodelabZ project's backend. For the first
 - Developed new pages.
 - Learned Firebase, Storybook,Cypress Testing.
 
-## What Left:-
+# What Left:-
 - Firebase Integration for some new components
