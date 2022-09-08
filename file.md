@@ -54,46 +54,41 @@ During GSoC'22, I began working on the CodelabZ project's backend. For the first
 
 ## What Covered:-
 
-| Issue Link   | Status         |
-|--------------|----------------|
-| [#242](https://github.com/scorelab/Codelabz/issues/242)| Closed ✅ | 
-| [#247](https://github.com/scorelab/Codelabz/issues/247)| Closed ✅ |
-| [#252](https://github.com/scorelab/Codelabz/issues/252)| Closed ✅ |
-| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
-| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
-| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
-| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
-| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
-| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
-| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |
-| [#351](https://github.com/scorelab/Codelabz/issues/351)| Closed ✅ |
-| [#372](https://github.com/scorelab/Codelabz/issues/372)| Closed ✅ |
-| [#372](https://github.com/scorelab/Codelabz/issues/372)| Closed ✅ |
-| [#369](https://github.com/scorelab/Codelabz/issues/369)| Closed ✅ |
-| [#373](https://github.com/scorelab/Codelabz/issues/373)| Closed ✅ |
-| [#389](https://github.com/scorelab/Codelabz/issues/389)| Closed ✅ |
-| [#389](https://github.com/scorelab/Codelabz/issues/389)| Closed ✅ |
-| [#400](https://github.com/scorelab/Codelabz/issues/400)| Closed ✅ |
-| [#403](https://github.com/scorelab/Codelabz/issues/403)| Closed ✅ |
+| Issue Link   | Status         | Description |
+|--------------|----------------|-------------|
+| [#242](https://github.com/scorelab/Codelabz/issues/242)| Closed ✅ | Tutorial Save Button Bug
+| [#247](https://github.com/scorelab/Codelabz/issues/247)| Closed ✅ | Unable to Sign-in or up
+| [#252](https://github.com/scorelab/Codelabz/issues/252)| Closed ✅ | Enhancing Firebase Documentation
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ | Installation For Firebase Local Emulator Suite
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ | ConFigure Firebase Local Emulator Suite 
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ | Integrate Firebase Local Emulator Suite
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ | Create dummy dataset for Local Emulator(Cloud Firestore)
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ | Write script to import and export Dummy
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ | Update Importing data
+| [#234](https://github.com/scorelab/Codelabz/issues/234)| Closed ✅ |  Update the documentation for Firebase Local Emulator Suite 
+| [#351](https://github.com/scorelab/Codelabz/issues/351)| Closed ✅ | Implement and Design Org setting page
+| [#372](https://github.com/scorelab/Codelabz/issues/372)| Closed ✅ | Add Responsiveness for Org Settings Page
+| [#373](https://github.com/scorelab/Codelabz/issues/373)| Closed ✅ | Add Loading & Responsiveness in Org Profile
+| [#388](https://github.com/scorelab/Codelabz/issues/388)| Closed ✅ | Update rule_set for testdata
+| [#400](https://github.com/scorelab/Codelabz/issues/400)| Closed ✅ | Update Firebase testData
+| [#413](https://github.com/scorelab/Codelabz/issues/413)| Closed ✅ | Responsive UI for Org Setting and Profile
 
-| PR Link   | Status         |  
-|-----------|----------------|
-| [#245](https://github.com/scorelab/Codelabz/pull/245) | Merged ✅ |
-| [#261](https://github.com/scorelab/Codelabz/pull/261) | Merged ✅ |
-| [#261](https://github.com/scorelab/Codelabz/pull/261) | Merged ✅ | 
-| [#304](https://github.com/scorelab/Codelabz/pull/304) | Merged ✅ | 
-| [#305](https://github.com/scorelab/Codelabz/pull/305) | Merged ✅ | 
-| [#322](https://github.com/scorelab/Codelabz/pull/322) | Merged ✅ | 
-| [#337](https://github.com/scorelab/Codelabz/pull/337) | Merged ✅ | 
-| [#338](https://github.com/scorelab/Codelabz/pull/338) | Merged ✅ |
-| [#348](https://github.com/scorelab/Codelabz/pull/348) | Merged ✅ | 
-| [#349](https://github.com/scorelab/Codelabz/pull/349) | Merged ✅ | 
-| [#363](https://github.com/scorelab/Codelabz/pull/363) | Merged ✅ | 
-| [#375](https://github.com/scorelab/Codelabz/pull/375) | Merged ✅ | 
-| [#376](https://github.com/scorelab/Codelabz/pull/376) | Merged ✅ | 
-| [#395](https://github.com/scorelab/Codelabz/pull/395) | Merged ✅ | 
-| [#396](https://github.com/scorelab/Codelabz/pull/396) | Merged ✅ | 
-| [#398](https://github.com/scorelab/Codelabz/pull/398) | Merged ✅ | 
-| [#402](https://github.com/scorelab/Codelabz/pull/402) | Merged ✅ | 
-| [#443](https://github.com/scorelab/Codelabz/pull/443) | Merged ✅ | 
-| [#444](https://github.com/scorelab/Codelabz/pull/444) | Merged ✅ |
+| PR Link   | Status         |  Description |
+|-----------|----------------|--------------|
+| [#245](https://github.com/scorelab/Codelabz/pull/245) | Merged ✅ | Updated Database-URL 
+| [#261](https://github.com/scorelab/Codelabz/pull/261) | Merged ✅ | Added Doc on Blaze Plan Setup
+| [#304](https://github.com/scorelab/Codelabz/pull/304) | Merged ✅ | Added Local Firebase Emulator Suite
+| [#305](https://github.com/scorelab/Codelabz/pull/305) | Merged ✅ | Added Configuration For Firebase Emulator Suite
+| [#322](https://github.com/scorelab/Codelabz/pull/322) | Merged ✅ | Created Import-Export For Firebase Emulator Suite
+| [#337](https://github.com/scorelab/Codelabz/pull/337) | Merged ✅ | Importable Data for Emulators
+| [#338](https://github.com/scorelab/Codelabz/pull/338) | Merged ✅ | Scripts For Firebase Emulators Startup 
+| [#348](https://github.com/scorelab/Codelabz/pull/348) | Merged ✅ | Rulesets for Emulator suite Usage
+| [#349](https://github.com/scorelab/Codelabz/pull/349) | Merged ✅ | Summary on Import Export and Usage Emulator Data
+| [#363](https://github.com/scorelab/Codelabz/pull/363) | Merged ✅ | Replaced Setting for Organisations
+| [#375](https://github.com/scorelab/Codelabz/pull/375) | Merged ✅ | Added General Profile Page
+| [#376](https://github.com/scorelab/Codelabz/pull/376) | Merged ✅ | Organisation Settings Responsive-ness
+| [#395](https://github.com/scorelab/Codelabz/pull/395) | Merged ✅ | Changes in Importing Emulators Data
+| [#396](https://github.com/scorelab/Codelabz/pull/396) | Merged ✅ | Updating Scripts on Importing Data to Emulators
+| [#398](https://github.com/scorelab/Codelabz/pull/398) | Merged ✅ | Added Rule-Sets of Testing Data
+| [#402](https://github.com/scorelab/Codelabz/pull/402) | Merged ✅ | Added Workflow In project Doc.
+| [#444](https://github.com/scorelab/Codelabz/pull/444) | Merged ✅ | Added Responsiveness for Org setting and profile.
