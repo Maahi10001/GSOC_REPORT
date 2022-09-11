@@ -100,8 +100,9 @@ During GSoC'22, I began working on the CodelabZ project's backend. For the first
 - Implemented New Firebase Emulator Suite.
 - Created seperate components.
 - Created the stories for the components.
-- Developed new pages.
-- Learned Firebase, Storybook,Cypress Testing.
+- Learned Firebase, Storybook,Cypress Testing. 
+- Initialized and Developed new pages for the UI.
+- Integrated the new UI with the existing backend.
 
 # What Left:-
-- Firebase Integration for some new components
+- Firebase Integration for some new UI components
